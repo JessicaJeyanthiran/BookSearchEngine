@@ -1,6 +1,6 @@
 # BOOK SEARCH ENGINE
 
-Google Books API search engine built in MERN Stack. Other than searching for books, users can sign up and login their account to save their favorive books.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Google Books API search engine built in MERN Stack. Other than searching for books, users can sign up and login their account to save their favorive books. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## USER STORY
 
@@ -43,6 +43,10 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
+
+## DEPLOYED LINK
+
+https://warm-island-73775.herokuapp.com/ 
 
 
 ## Available Scripts
