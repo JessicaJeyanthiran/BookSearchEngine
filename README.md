@@ -48,6 +48,8 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 https://warm-island-73775.herokuapp.com/ 
 
+![mern](21-mern-homework-demo-01.gif)
+
 
 ## Available Scripts
 
